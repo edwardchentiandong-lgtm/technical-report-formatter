@@ -1,0 +1,5 @@
+interface:
+  display_name: "Technical Report Formatter"
+  short_description: "Format and audit DOCX technical reports with configurable heading depth"
+  default_prompt: "Use $technical-report-formatter to format this DOCX using my reference template and requested heading depth."
+
